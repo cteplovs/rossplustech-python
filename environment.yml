@@ -3,7 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - anyio
-  - appnope
   - argon2-cffi
   - async_generator
   - attrs
