@@ -159,4 +159,5 @@ dependencies:
   - zstd
   - pip:
     - gensim
+    - pmdarima
 prefix: /Users/cteplovs/mambaforge/envs/rossplustech
